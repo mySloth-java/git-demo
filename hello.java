@@ -1,6 +1,9 @@
 public class method
 {
 	public static void main(String[] args){
-		System.out.print("hello git£¬ÎÒÒªÑ§ÍêÄã´î½¨ÏîÄ¿À²")
+		System.out.print("hello gitï¼Œæˆ‘è¦å­¦å®Œä½ æ­å»ºé¡¹ç›®å•¦");
+		System.out.print("ä¿®æ”¹ä»£ç ....ç­‰å¾…gitæ‹‰å–");
 	}
+	
+	
 }
